@@ -1,4 +1,4 @@
-myArduino
+SPI2C
 =========
 
-Template to create Arduino type projects
+Project to use SPI and I2C in Arduino boards
